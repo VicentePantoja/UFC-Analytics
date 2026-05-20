@@ -1,6 +1,6 @@
 # UFC Fight Analysis
 
-## Status: Work in Progress 🔧
+## Status: Work in Progress 
 
 ### Completed
 - Exploratory Data Analysis (EDA)
